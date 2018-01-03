@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tengu/hardware/final_theremin/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tengu/hardware/final_theremin/PWM_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PWM_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tengu/hardware/final_theremin/sensor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sensor
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tengu/hardware/final_theremin/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tengu/hardware/final_theremin/final_theremin.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,9 @@
+0.6
+2017.2
+Jun 15 2017
+18:41:53
+/home/tengu/hardware/final_theremin/Decoder.v,1514907222,verilog,,,,Decoder,,,,,,,,
+/home/tengu/hardware/final_theremin/PWM_gen.v,1514955282,verilog,,,,PWM_gen,,,,,,,,
+/home/tengu/hardware/final_theremin/final_theremin.sim/sim_1/behav/glbl.v,1497407496,verilog,,,,glbl,,,,,,,,
+/home/tengu/hardware/final_theremin/sensor.v,1514997103,verilog,,,,Sensor,,,,,,,,
+/home/tengu/hardware/final_theremin/top.v,1514995767,verilog,,,,Top,,,,,,,,

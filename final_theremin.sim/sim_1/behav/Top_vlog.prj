@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../Decoder.v"
+verilog xil_defaultlib  "../../../PWM_gen.v"
+verilog xil_defaultlib  "../../../sensor.v"
+verilog xil_defaultlib  "../../../top.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
