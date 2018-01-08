@@ -1,7 +1,7 @@
 Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
 ------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
-| Date         : Thu Jan  4 01:17:59 2018
+| Date         : Mon Jan  8 20:10:52 2018
 | Host         : tengu running 64-bit Ubuntu 16.04.2 LTS
 | Command      : report_control_sets -verbose -file Top_control_sets_placed.rpt
 | Design       : Top
@@ -35,8 +35,8 @@ Table of Contents
 +--------------+-----------------------+------------------------+-----------------+--------------+
 | No           | No                    | No                     |               9 |            5 |
 | No           | No                    | Yes                    |              33 |            9 |
-| No           | Yes                   | No                     |              48 |           13 |
-| Yes          | No                    | No                     |              27 |           15 |
+| No           | Yes                   | No                     |              48 |           16 |
+| Yes          | No                    | No                     |              27 |           18 |
 | Yes          | No                    | Yes                    |               0 |            0 |
 | Yes          | Yes                   | No                     |              32 |            8 |
 +--------------+-----------------------+------------------------+-----------------+--------------+
@@ -51,9 +51,9 @@ Table of Contents
 |  CLK100MHZ_IBUF_BUFG  | sw_IBUF[0]                     |                                |                1 |              1 |
 |  digit_reg[3]_i_2_n_0 |                                |                                |                2 |              4 |
 |  CLK100MHZ_IBUF_BUFG  |                                |                                |                3 |              5 |
-|  CLK100MHZ_IBUF_BUFG  | sensor/r_dist                  |                                |               14 |             26 |
+|  CLK100MHZ_IBUF_BUFG  | sensor/r_dist                  |                                |               17 |             26 |
 |  CLK100MHZ_IBUF_BUFG  | sensor/dist_counter[0]_i_2_n_0 | sensor/dist_counter[0]_i_1_n_0 |                8 |             32 |
-|  CLK100MHZ_IBUF_BUFG  |                                | pwm_0/SR[0]                    |               22 |             81 |
+|  CLK100MHZ_IBUF_BUFG  |                                | pwm_0/SR[0]                    |               25 |             81 |
 +-----------------------+--------------------------------+--------------------------------+------------------+----------------+
 
 

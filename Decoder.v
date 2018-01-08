@@ -4,17 +4,30 @@
 //
 
 module Decoder (
-	input [15:0] tone,
+	input [32:0] tone,
 	output reg [32-1:0] freq 
 );
 
     reg[32-1:0] q;
+    reg[32-1:0] s;
 
 always @(*) begin
     //q = tone % 232 + 1'b1;
-    q = tone / 10;
-    q = q - 50;
-    freq = (q % 232) + 32'd294;
+    if(tone > 43'd4700) begin
+        freq = 32'd20000;
+    end
+    else begin
+        q = tone / 10;
+        q = q - 50;
+        s = q / 232;
+        if(s == 23'b0) begin
+            freq = (q % 232) + 32'd262;
+        end
+        else begin
+            freq = (q % 232) + 32'd262;
+            freq = freq << 1;
+        end
+    end
     /*    
 	case (tone)
 		16'b0000_0000_0000_0010: freq = 32'd294;	//Re-m

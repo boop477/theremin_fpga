@@ -47,6 +47,7 @@ start_step write_bitstream
 set ACTIVE_STEP write_bitstream
 set rc [catch {
   create_msg_db write_bitstream.pb
+  set_param xicom.use_bs_reader 1
   open_checkpoint Top_routed.dcp
   set_property webtalk.parent_dir /home/tengu/hardware/final_theremin/final_theremin.cache/wt [current_project]
   catch { write_mem_info -force Top.mmi }

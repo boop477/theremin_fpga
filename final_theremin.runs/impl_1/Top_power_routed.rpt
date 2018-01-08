@@ -1,7 +1,7 @@
 Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
-| Date             : Thu Jan  4 01:18:29 2018
+| Date             : Mon Jan  8 20:11:26 2018
 | Host             : tengu running 64-bit Ubuntu 16.04.2 LTS
 | Command          : report_power -file Top_power_routed.rpt -pb Top_power_summary_routed.pb -rpx Top_power_routed.rpx
 | Design           : Top
@@ -30,12 +30,12 @@ Table of Contents
 ----------
 
 +--------------------------+--------+
-| Total On-Chip Power (W)  | 0.138  |
-| Dynamic (W)              | 0.067  |
+| Total On-Chip Power (W)  | 0.159  |
+| Dynamic (W)              | 0.087  |
 | Device Static (W)        | 0.072  |
 | Effective TJA (C/W)      | 5.0    |
-| Max Ambient (C)          | 84.3   |
-| Junction Temperature (C) | 25.7   |
+| Max Ambient (C)          | 84.2   |
+| Junction Temperature (C) | 25.8   |
 | Confidence Level         | Medium |
 | Setting File             | ---    |
 | Simulation Activity File | ---    |
@@ -50,17 +50,17 @@ Table of Contents
 | On-Chip        | Power (W) | Used     | Available | Utilization (%) |
 +----------------+-----------+----------+-----------+-----------------+
 | Clocks         |     0.002 |        3 |       --- |             --- |
-| Slice Logic    |     0.023 |     3389 |       --- |             --- |
-|   LUT as Logic |     0.020 |     2226 |     20800 |           10.70 |
-|   CARRY4       |     0.003 |      513 |      8150 |            6.29 |
+| Slice Logic    |     0.033 |     4865 |       --- |             --- |
+|   LUT as Logic |     0.029 |     3308 |     20800 |           15.90 |
+|   CARRY4       |     0.004 |      726 |      8150 |            8.91 |
 |   Register     |    <0.001 |      149 |     41600 |            0.36 |
 |   F7/F8 Muxes  |    <0.001 |        1 |     32600 |           <0.01 |
-|   Others       |     0.000 |       10 |       --- |             --- |
-| Signals        |     0.022 |     2824 |       --- |             --- |
-| DSPs           |     0.001 |        1 |        90 |            1.11 |
-| I/O            |     0.018 |       35 |       106 |           33.02 |
+|   Others       |     0.000 |       12 |       --- |             --- |
+| Signals        |     0.036 |     4044 |       --- |             --- |
+| DSPs           |    <0.001 |        1 |        90 |            1.11 |
+| I/O            |     0.016 |       35 |       106 |           33.02 |
 | Static Power   |     0.072 |          |           |                 |
-| Total          |     0.138 |          |           |                 |
+| Total          |     0.159 |          |           |                 |
 +----------------+-----------+----------+-----------+-----------------+
 
 
@@ -70,7 +70,7 @@ Table of Contents
 +-----------+-------------+-----------+-------------+------------+
 | Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) |
 +-----------+-------------+-----------+-------------+------------+
-| Vccint    |       1.000 |     0.058 |       0.048 |      0.010 |
+| Vccint    |       1.000 |     0.081 |       0.071 |      0.010 |
 | Vccaux    |       1.800 |     0.013 |       0.001 |      0.013 |
 | Vcco33    |       3.300 |     0.006 |       0.005 |      0.001 |
 | Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |
@@ -136,12 +136,13 @@ Table of Contents
 3.1 By Hierarchy
 ----------------
 
-+----------+-----------+
-| Name     | Power (W) |
-+----------+-----------+
-| Top      |     0.067 |
-|   pwm_0  |     0.020 |
-|   sensor |     0.020 |
-+----------+-----------+
++-------------+-----------+
+| Name        | Power (W) |
++-------------+-----------+
+| Top         |     0.087 |
+|   decoder00 |     0.026 |
+|   pwm_0     |     0.016 |
+|   sensor    |     0.017 |
++-------------+-----------+
 
 

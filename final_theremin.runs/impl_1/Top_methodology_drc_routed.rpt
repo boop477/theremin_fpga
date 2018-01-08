@@ -1,7 +1,7 @@
 Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
-| Date         : Thu Jan  4 01:18:28 2018
+| Date         : Mon Jan  8 20:11:25 2018
 | Host         : tengu running 64-bit Ubuntu 16.04.2 LTS
 | Command      : report_methodology -file Top_methodology_drc_routed.rpt -rpx Top_methodology_drc_routed.rpx
 | Design       : Top
@@ -42,297 +42,297 @@ Related violations: <none>
 
 TIMING-16#1 Warning
 Large setup violation  
-There is a large setup violation of -5.379 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[14]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.698 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[12]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#2 Warning
 Large setup violation  
-There is a large setup violation of -5.386 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[7]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.705 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[3]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#3 Warning
 Large setup violation  
-There is a large setup violation of -5.496 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[6]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.750 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[4]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#4 Warning
 Large setup violation  
-There is a large setup violation of -5.535 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[8]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.857 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[15]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#5 Warning
 Large setup violation  
-There is a large setup violation of -5.539 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[4]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.859 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[1]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#6 Warning
 Large setup violation  
-There is a large setup violation of -5.653 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[11]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.926 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[17]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#7 Warning
 Large setup violation  
-There is a large setup violation of -5.666 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[13]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.928 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[25]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#8 Warning
 Large setup violation  
-There is a large setup violation of -5.703 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[3]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.959 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[11]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#9 Warning
 Large setup violation  
-There is a large setup violation of -5.803 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[12]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.967 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[14]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#10 Warning
 Large setup violation  
-There is a large setup violation of -5.813 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[9]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.971 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[7]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#11 Warning
 Large setup violation  
-There is a large setup violation of -5.859 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[10]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.977 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[8]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#12 Warning
 Large setup violation  
-There is a large setup violation of -5.878 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[23]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -5.979 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[9]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#13 Warning
 Large setup violation  
-There is a large setup violation of -6.030 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[22]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.010 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[13]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#14 Warning
 Large setup violation  
-There is a large setup violation of -6.038 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[20]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.029 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[6]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#15 Warning
 Large setup violation  
-There is a large setup violation of -6.040 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[15]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.041 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[5]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#16 Warning
 Large setup violation  
-There is a large setup violation of -6.045 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[5]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.046 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[0]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#17 Warning
 Large setup violation  
-There is a large setup violation of -6.108 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[18]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.072 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[2]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#18 Warning
 Large setup violation  
-There is a large setup violation of -6.112 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[0]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.077 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[10]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#19 Warning
 Large setup violation  
-There is a large setup violation of -6.142 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[2]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.198 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[16]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#20 Warning
 Large setup violation  
-There is a large setup violation of -6.185 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[25]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.223 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[23]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#21 Warning
 Large setup violation  
-There is a large setup violation of -6.227 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[21]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.250 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[21]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#22 Warning
 Large setup violation  
-There is a large setup violation of -6.237 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[19]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.293 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[20]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#23 Warning
 Large setup violation  
-There is a large setup violation of -6.244 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[1]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.351 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[19]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#24 Warning
 Large setup violation  
-There is a large setup violation of -6.345 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[16]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.366 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[22]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#25 Warning
 Large setup violation  
-There is a large setup violation of -6.345 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[17]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.417 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[24]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#26 Warning
 Large setup violation  
-There is a large setup violation of -6.705 ns between sensor/dist_counter_reg[2]/C (clocked by clock) and sensor/r_dist_reg[24]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -6.666 ns between sensor/dist_counter_reg[4]/C (clocked by clock) and sensor/r_dist_reg[18]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#27 Warning
 Large setup violation  
-There is a large setup violation of -77.292 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[0]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -95.748 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[0]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#28 Warning
 Large setup violation  
-There is a large setup violation of -77.469 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[1]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -95.925 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[1]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#29 Warning
 Large setup violation  
-There is a large setup violation of -77.640 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[2]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.078 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[2]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#30 Warning
 Large setup violation  
-There is a large setup violation of -77.700 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[3]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.138 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[3]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#31 Warning
 Large setup violation  
-There is a large setup violation of -77.833 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[4]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.271 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[4]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#32 Warning
 Large setup violation  
-There is a large setup violation of -77.849 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[6]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.287 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[6]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#33 Warning
 Large setup violation  
-There is a large setup violation of -77.923 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[7]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.361 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[7]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#34 Warning
 Large setup violation  
-There is a large setup violation of -77.944 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[5]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.382 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[5]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#35 Warning
 Large setup violation  
-There is a large setup violation of -77.947 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[8]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.409 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[8]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#36 Warning
 Large setup violation  
-There is a large setup violation of -77.963 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[10]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.425 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[10]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#37 Warning
 Large setup violation  
-There is a large setup violation of -78.037 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[11]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.499 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[11]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#38 Warning
 Large setup violation  
-There is a large setup violation of -78.058 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[9]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.520 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[9]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#39 Warning
 Large setup violation  
-There is a large setup violation of -78.060 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[12]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.522 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[12]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#40 Warning
 Large setup violation  
-There is a large setup violation of -78.076 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[14]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.538 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[14]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#41 Warning
 Large setup violation  
-There is a large setup violation of -78.150 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[15]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.612 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[15]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#42 Warning
 Large setup violation  
-There is a large setup violation of -78.171 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[13]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.633 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[13]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#43 Warning
 Large setup violation  
-There is a large setup violation of -78.174 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[16]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.635 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[16]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#44 Warning
 Large setup violation  
-There is a large setup violation of -78.190 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[18]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.651 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[18]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#45 Warning
 Large setup violation  
-There is a large setup violation of -78.264 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[19]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.725 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[19]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#46 Warning
 Large setup violation  
-There is a large setup violation of -78.285 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[17]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.746 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[17]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#47 Warning
 Large setup violation  
-There is a large setup violation of -78.288 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[20]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.749 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[20]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#48 Warning
 Large setup violation  
-There is a large setup violation of -78.303 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[24]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.765 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[22]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#49 Warning
 Large setup violation  
-There is a large setup violation of -78.304 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[22]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.839 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[23]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#50 Warning
 Large setup violation  
-There is a large setup violation of -78.319 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[26]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.860 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[21]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#51 Warning
 Large setup violation  
-There is a large setup violation of -78.378 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[23]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.862 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[24]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#52 Warning
 Large setup violation  
-There is a large setup violation of -78.393 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[27]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.878 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[26]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#53 Warning
 Large setup violation  
-There is a large setup violation of -78.399 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[21]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.952 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[27]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#54 Warning
 Large setup violation  
-There is a large setup violation of -78.414 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[25]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.973 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[25]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#55 Warning
 Large setup violation  
-There is a large setup violation of -78.417 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[28]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.976 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[28]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#56 Warning
 Large setup violation  
-There is a large setup violation of -78.433 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[30]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -96.992 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[30]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#57 Warning
 Large setup violation  
-There is a large setup violation of -78.507 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[31]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -97.066 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[31]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#58 Warning
 Large setup violation  
-There is a large setup violation of -78.528 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/count_reg[29]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -97.087 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/count_reg[29]/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-16#59 Warning
 Large setup violation  
-There is a large setup violation of -81.364 ns between sensor/r_dist_reg[15]/C (clocked by clock) and pwm_0/PWM_reg/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
+There is a large setup violation of -99.968 ns between sensor/r_dist_reg[6]/C (clocked by clock) and pwm_0/PWM_reg/D (clocked by clock). Large setup violations at the end of those stages might be difficult to fix during the post-placement implementation flow and could be the result of non-optimal XDC constraints or non-optimal design architecture
 Related violations: <none>
 
 TIMING-18#1 Warning

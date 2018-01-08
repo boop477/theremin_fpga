@@ -42,7 +42,7 @@ module Sensor(CLK, RESET_n, echo, trig, dist, out_get_echo);
                 //dist_counter <= 32'd0;
                 get_echo <= get_echo;
             end
-            else if(counter == 32'd10000000) begin//d1000000
+            else if(counter == 32'd1000000) begin//d1000000
                 // 1 echo/sec
                 counter <= 32'd0;	
                 //dist_counter <= 32'd0;
